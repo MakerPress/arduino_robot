@@ -5,6 +5,5 @@
 == Useful Links
 * [[Home / TOC |home]]
 * https://github.com/MakerPress/gettingStartedGuide[View the Getting Started guide]
-* https://github.com/MakerPress/arduino_robot[View repo on GitHub]
 * Create a figure
 * Generate EPUB preview
