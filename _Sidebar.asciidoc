@@ -1,5 +1,7 @@
 [[ attachments/_Logo.png ]]
-Make a Mind Controlled Robot With Arduino
+
+== Make a Mind Controlled Robot With Arduino
+
 == Useful Links
 * [[Home / TOC |home]]
 * https://github.com/MakerPress/gettingStartedGuide[View the Getting Started guide]
