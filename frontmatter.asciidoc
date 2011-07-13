@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Put in any text here you'd like to have appear in the preface (some introductory paragraphs, a section on Who This Book Is For, etc.). We'll add the standard O'Reilly Preface boilerplate material right after that.
+=======
+Put in any text here you'd like to have appear in the preface (some introductory paragraphs, a section on Who This Book Is For, etc.). We'll add the standard O'Reilly Preface material right after that.
+>>>>>>> 4e77cc61fd5208abae57743c6312831c0c2478d8
