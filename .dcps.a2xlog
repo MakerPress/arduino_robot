@@ -15,11 +15,6 @@ asciidoc: book.asc: line 2: macro redefinition: #
 asciidoc: writing: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311544current/book.dcpsgen.xml
 asciidoc: book.asc: line 2: evaluating: {include:/work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311544current/book-docinfo.xml}
 asciidoc: book.asc: line 8: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311544current/preface.asc
-<<<<<<< HEAD
 asciidoc: preface.asc: line 5: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311544current/frontmatter.asciidoc
 asciidoc: book.asc: line 10: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311544current/chapter_skeleton.asc
-Tue Jul 12 19:58:04 EDT 2011
-=======
-asciidoc: book.asc: line 10: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311544current/chapter_skeleton.asc
-Mon Jul 11 15:44:38 EDT 2011
->>>>>>> cbf7bd0f547560f10a28f33daa69e9b644f971e4
+Tue Jul 12 20:27:57 EDT 2011
