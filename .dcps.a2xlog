@@ -17,4 +17,4 @@ asciidoc: book.asc: line 2: evaluating: {include:/work/tools/svn_hooks/checkouts
 asciidoc: book.asc: line 8: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311544current/preface.asc
 asciidoc: preface.asc: line 5: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311544current/frontmatter.asciidoc
 asciidoc: book.asc: line 10: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311544current/chapter_skeleton.asc
-Wed Jul 13 22:35:04 EDT 2011
+Wed Jul 13 22:40:53 EDT 2011
