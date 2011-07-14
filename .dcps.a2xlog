@@ -17,5 +17,4 @@ asciidoc: book.asc: line 2: evaluating: {include:/work/tools/svn_hooks/checkouts
 asciidoc: book.asc: line 8: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311544current/preface.asc
 asciidoc: preface.asc: line 5: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311544current/frontmatter.asciidoc
 asciidoc: book.asc: line 10: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311544current/chapter_skeleton.asc
-asciidoc: ERROR: chapter_skeleton.asc: line 1: section title not permitted in delimited block
-asciidoc: ERROR: frontmatter.asciidoc: line 2: [blockdef-example] missing closing delimiter
+Wed Jul 13 22:55:45 EDT 2011
