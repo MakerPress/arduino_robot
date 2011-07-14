@@ -13,7 +13,7 @@
 </bookinfo>
 <preface id="_preface">
 <title>Preface</title>
-<simpara>Put in any text here you&#8217;d like to have appear in the preface (some introductory paragraphs, a section on Who This Book Is For, and so forth). We&#8217;ll add the standard O&#8217;Reilly Preface material right after this text appears.</simpara>
+<simpara>Put in any text here you&#8217;d like to have appear in the preface (some introductory paragraphs, a section on Who This Book Is For, and so forth). We&#8217;ll add the standard O&#8217;Reilly Preface material right after this text&#8230;</simpara>
 <remark>Skip to the first chapter for asciidoc markup demo; below is just "passthrough" DocBook markup...</remark>
 
   <sect1>
