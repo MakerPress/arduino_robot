@@ -13,7 +13,11 @@
 </bookinfo>
 <preface id="_preface">
 <title>Preface</title>
-<simpara>Put in any text here you&#8217;d like to have appear in the preface (some introductory paragraphs, a section on Who This Book Is For, and so forth). We&#8217;ll add the standard O&#8217;Reilly Preface material right after this text appears.</simpara>
+<simpara>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+Put in any text here you&#8217;d like to have appear in the preface (some introductory paragraphs, a section on Who This Book Is For, and so forth). We&#8217;ll add the standard O&#8217;Reilly Preface material right after this text appears.</simpara>
+<informalexample>
+<simpara>Put in any text here you&#8217;d like to have appear in the preface (some introductory paragraphs, a section on Who This Book Is For, and so forth). We&#8217;ll add the standard O&#8217;Reilly Preface material right after this text.
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; orm:asciidoc</simpara>
 <remark>Skip to the first chapter for asciidoc markup demo; below is just "passthrough" DocBook markup...</remark>
 
   <sect1>
@@ -169,9 +173,7 @@
     <para>Watch us on YouTube: <ulink
     url="http://www.youtube.com/oreillymedia"></ulink></para>
   </sect1>
+<simpara id="chapter_id">Some text&#8230;</simpara>
+</informalexample>
 </preface>
-<chapter id="chapter_id">
-<title>Chapter Title</title>
-<simpara>Some text&#8230;</simpara>
-</chapter>
 </book>
