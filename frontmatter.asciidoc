@@ -1,1 +1,1 @@
-Put in any text here you'd like to have appear in the preface (some introductory paragraphs, a section on Who This Book Is For, and so forth). We'll add the standard O'Reilly Preface material right after this text.
+Put in any text here you'd like to have appear in the preface (some introductory paragraphs, a section on Who This Book Is For, and so forth). We'll add the standard O'Reilly Preface material right after this text appears.
